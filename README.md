@@ -10,6 +10,8 @@ Hello World
 ## 安装下载
 
 - 下载地址 https://github.com/bao-th/fast-cache/releases
+-  npm i baoth-fast-cache
+-  CDN http://unpkg.com/baoth-fast-cache/release/bundle.js
 
 ## 快速使用
 
