@@ -9,6 +9,7 @@ Hello World
 
 ## 安装下载
 
+- 下载地址 https://github.com/bao-th/fast-cache/releases
 
 ## 快速使用
 
